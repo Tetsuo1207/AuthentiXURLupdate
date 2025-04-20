@@ -1,3 +1,7 @@
 {
-    "backendUrl": "https://3c0d-136-158-82-35.ngrok-free.app"
+  "backendUrl": "https://499b-136-158-82-35.ngrok-free.app",
+  "allowedOrigins": [
+    "http://192.168.1.6:5000",
+    "https://499b-136-158-82-35.ngrok-free.app"
+  ]
 }
